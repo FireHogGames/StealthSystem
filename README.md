@@ -1,2 +1,1 @@
-# StealthSystem
-Stealth System made in unity
+# Stealth System
